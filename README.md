@@ -16,10 +16,10 @@ Watch it here 👉 🎬
 
 ## Features
 
-- 3 interfaces : 
--- consultant
--- project manager
--- business manager
+- timesheets
+- forecast schedule for projects and consultants
+- project budget consumption
+- project commercial margin
 
 ## How to install
 
@@ -28,6 +28,8 @@ Watch it here 👉 🎬
 
 
 ## Built with
+
+
 
 
 ## Contributors
