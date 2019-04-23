@@ -17,9 +17,23 @@ Watch it here 👉 🎬
 ## Features
 
 - timesheets
+
+![Timesheet](/img/timesheet.jpg "timesheet")
+
 - forecast schedule for projects and consultants
+
+![Forecast](/img/forecast.jpg "forecast")
+
 - project budget consumption
+
+![Budget](/img/budget.jpg "budget")
+
 - project commercial margin
+![Margin](/img/margin.jpg "margin")
+
+- bill automation
+
+![Bill](/img/bill.jpg "bill")
 
 ## How to install
 
