@@ -16,6 +16,10 @@ Watch it here 👉 🎬
 
 ## Features
 
+- projects and consultants overview 
+
+![Overview](/img/overview.jpg "overview")
+
 - timesheets
 
 ![Timesheet](/img/timesheet.jpg "timesheet")
